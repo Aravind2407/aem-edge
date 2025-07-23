@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/aravind-aem-edge/:/",
+    "/content/aravind-aem-edge/configuration:/.helix/config.json",
+    "/content/aravind-aem-edge/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/aravind-aem-edge/"
+  ]
+}
